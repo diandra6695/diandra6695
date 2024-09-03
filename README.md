@@ -1,8 +1,20 @@
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://linkedin.com/in/diandraaditya)
+[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://youtube.com/@diandrarullyaditya6537)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://instagram.com/diandra6695)
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diandra6695) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diandraaditya) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@diandrarullyaditya6537) 
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=diandra6695&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diandra6695&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diandra6695&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+Here's a list of my tech stack and skills:
+
+
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-green?style=for-the-badge)
+
+![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
