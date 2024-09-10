@@ -2,7 +2,7 @@
 [![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://youtube.com/@diandrarullyaditya6537)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://instagram.com/diandra6695)
 
-\![](https://github-readme-stats.vercel.app/api?username=diandra6695&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>\
+![](https://github-readme-stats.vercel.app/api?username=diandra6695&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=diandra6695&theme=dark&hide_border=true)<br/>
 
 ---
